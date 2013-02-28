@@ -1,12 +1,11 @@
-#coffee-jade-wrapper
+# coffee-jade-wrapper
 >simple template engine based on jade and jquery
 
-Installing:
+## Installation
 
-```shell
-npm install coffee-jade-wrapper
-```
+$ npm install coffee-jade-wrapper
 
+## Usage
 ```coffeescript
 {j} = require 'coffee-jade-wrapper'
 
