@@ -1,0 +1,13 @@
+{
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
+  },
+  "main": "./main",
+  "name": "coffee-jade-engine",
+  "version": "0.0.1-alpha",
+  "dependencies": {
+    "jquery": "https://github.com/starliner/node-jquery/archive/xmldom.tar.gz",
+    "jade": "~0.28.1"
+  }
+}
