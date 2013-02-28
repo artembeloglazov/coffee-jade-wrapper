@@ -3,7 +3,9 @@
 
 ## Installation
 
-$ npm install coffee-jade-wrapper
+```shell
+npm install coffee-jade-wrapper
+```
 
 ## Usage
 ```coffeescript
