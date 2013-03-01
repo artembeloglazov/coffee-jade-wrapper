@@ -4,7 +4,7 @@
     "npm": "1.2.x"
   },
   "main": "./main",
-  "name": "coffee-jade-engine",
+  "name": "coffee-jade-wrapper",
   "version": "0.0.1-alpha",
   "dependencies": {
     "jquery": "https://github.com/starliner/node-jquery/archive/xmldom.tar.gz",
