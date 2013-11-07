@@ -6,6 +6,10 @@
   "main": "./main",
   "name": "coffee-jade-wrapper",
   "version": "0.0.1-alpha",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/starliner/coffee-jade-wrapper"
+  },
   "dependencies": {
     "jquery": "https://github.com/starliner/node-jquery/archive/xmldom.tar.gz",
     "jade": "~0.28.1"
