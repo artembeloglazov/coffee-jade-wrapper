@@ -1,0 +1,6 @@
+{
+  "name": "Coffee-jade-wrapper",
+  "tagline": "Simple template engine based on jade and jquery",
+  "body": "# coffee-jade-wrapper\r\n>simple template engine based on jade and jquery\r\n\r\n## Installation\r\n\r\n```shell\r\nnpm install coffee-jade-wrapper\r\n```\r\n\r\n## Usage\r\n```coffeescript\r\n{j} = require 'coffee-jade-wrapper'\r\n\r\ndoc = j('html')\r\n        .appendj('body text of body')\r\n            .appendj('p some text')\r\n                .appendj('p some text2')\r\nconsole.log doc[0].toString()\r\n```",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
